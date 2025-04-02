@@ -1,6 +1,6 @@
 # Cloudy With A Chance ☁️
 
-"Cloudy With A Chance" is a modern weather application that provides real-time weather updates, forecasts, and atmoshperic data. Built with a sleek User Interface (UI), it can easily check weather conditions anywhere in the world.
+**Cloudy With A Chance** is a modern weather application that provides real-time weather updates, forecasts, and atmoshperic data. Built with a sleek User Interface (UI), it can easily check weather conditions anywhere in the world.
 
 ## 🌟 Features
 - 🌦️ Real-time weather updates.
